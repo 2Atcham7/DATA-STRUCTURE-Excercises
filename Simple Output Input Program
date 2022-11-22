@@ -7,7 +7,7 @@
 
 
 
-public class Simpl Output-Input-Program{
+public class First1{
    static public void main(String... args){
       System.out.print("Enter first value (n):");
       int a=new java.util.Scanner(System.in).nextInt();
