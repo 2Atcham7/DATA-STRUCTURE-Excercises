@@ -1,2 +1,3 @@
-# Simple-input-output-program-in-java
-A program that would accept two(2) integers    compute and display the sum,difference,product and quotient
+This is My Activities and Projects on my 2nd Year in BSIT
+
+SUBJECT: Data Structure
